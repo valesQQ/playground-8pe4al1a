@@ -6,7 +6,7 @@ The source code is on [GitHub](https://github.com/TechDotIO/rust-template), plea
 
 # Hands-on Demo
 
-@[Luke, in how many stars systems could tatooine hide?]({ "stubs": [ "src/tattoine.rs" ], "command": "cargo test -q --test test test_tatooine -- --nocapture" })
+@[Luke, in how many stars systems could tatooine hide?]({ "stubs": [ "src/tatooine.rs" ], "command": "cargo test -q --test test test_tatooine -- --nocapture" })
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/rust-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
