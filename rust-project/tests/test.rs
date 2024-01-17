@@ -12,6 +12,7 @@ pub fn test_tatooine() {
         9, 7, 2, 7, 5, 8, 3, 9, 4, 9,
     ];
     let expected = 5;
+    let res = find_tatooine(&systems) == expected;
 
-    assert_eq!(expected, find_tatooine(&systems));
+    assert!(res, "Wrong!");
 }
