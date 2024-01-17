@@ -1,6 +1,6 @@
-title: Rust Project
+title: Coding game January
 plan:
-- title: Welcome
+- title: Where is Tatooine ?
   statement: markdowns/welcome.md
 projects:
   rust:
